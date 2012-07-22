@@ -1,6 +1,6 @@
 --[[
 
-This is a Lua libary! It converts all the old function dumps to simple
+This is a Lua libary! It converts all the old built in functions to simple
 and faster to type functions.
 
 Your free to use the old ones...But if you ever are tired of doing
